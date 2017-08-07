@@ -1,0 +1,60 @@
+c:\users\lixcode\documents\visual studio 2013\Projects\04.11\04.11\bin\Debug\04.11.exe.config
+C:\Users\Lixcode\documents\visual studio 2013\Projects\04.11\04.11\obj\Debug\04.11.csprojResolveAssemblyReference.cache
+C:\Users\Lixcode\documents\visual studio 2013\Projects\04.11\04.11\obj\Debug\_04._11.Form1.resources
+C:\Users\Lixcode\documents\visual studio 2013\Projects\04.11\04.11\obj\Debug\_04._11.Properties.Resources.resources
+C:\Users\Lixcode\documents\visual studio 2013\Projects\04.11\04.11\obj\Debug\04.11.csproj.GenerateResource.Cache
+C:\Users\Lixcode\documents\visual studio 2013\Projects\04.11\04.11\bin\Debug\04.11.exe
+C:\Users\Lixcode\documents\visual studio 2013\Projects\04.11\04.11\bin\Debug\04.11.pdb
+C:\Users\Lixcode\documents\visual studio 2013\Projects\04.11\04.11\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Lixcode\documents\visual studio 2013\Projects\04.11\04.11\bin\Debug\OpenTK.dll
+C:\Users\Lixcode\documents\visual studio 2013\Projects\04.11\04.11\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Lixcode\documents\visual studio 2013\Projects\04.11\04.11\obj\Debug\04.11.exe
+C:\Users\Lixcode\documents\visual studio 2013\Projects\04.11\04.11\obj\Debug\04.11.pdb
+C:\Юра\Преподавание\Преподавание в МАТИ\Пространственное моделирование\Лекции по пр модел 2015\Занятие-планы 29 09 2015\Лелицак Василе\04.11\bin\Debug\04.11.exe.config
+C:\Юра\Преподавание\Преподавание в МАТИ\Пространственное моделирование\Лекции по пр модел 2015\Занятие-планы 29 09 2015\Лелицак Василе\04.11\obj\Debug\04.11.exe
+C:\Юра\Преподавание\Преподавание в МАТИ\Пространственное моделирование\Лекции по пр модел 2015\Занятие-планы 29 09 2015\Лелицак Василе\04.11\obj\Debug\04.11.pdb
+C:\Юра\Преподавание\Преподавание в МАТИ\Пространственное моделирование\Лекции по пр модел 2015\Занятие-планы 29 09 2015\Лелицак Василе\04.11\bin\Debug\04.11.exe
+C:\Юра\Преподавание\Преподавание в МАТИ\Пространственное моделирование\Лекции по пр модел 2015\Занятие-планы 29 09 2015\Лелицак Василе\04.11\bin\Debug\04.11.pdb
+C:\Юра\Преподавание\Преподавание в МАТИ\Пространственное моделирование\Лекции по пр модел 2015\Занятие-планы 29 09 2015\Лелицак Василе\04.11\obj\Debug\04.11.csprojResolveAssemblyReference.cache
+C:\Юра\Преподавание\Преподавание в МАТИ\Пространственное моделирование\Лекции по пр модел 2015\Занятие-планы 29 09 2015\Лелицак Василе\04.11\obj\Debug\_04._11.Form1.resources
+C:\Юра\Преподавание\Преподавание в МАТИ\Пространственное моделирование\Лекции по пр модел 2015\Занятие-планы 29 09 2015\Лелицак Василе\04.11\obj\Debug\_04._11.Properties.Resources.resources
+C:\Юра\Преподавание\Преподавание в МАТИ\Пространственное моделирование\Лекции по пр модел 2015\Занятие-планы 29 09 2015\Лелицак Василе\04.11\obj\Debug\04.11.csproj.GenerateResource.Cache
+D:\Ната\МАИ\_Пространственное моделирование\_2016-17_Пр_мод\Учебные материалы\Курсовые_2016\Пример курсовой\04.11\bin\Debug\04.11.exe.config
+D:\Ната\МАИ\_Пространственное моделирование\_2016-17_Пр_мод\Учебные материалы\Курсовые_2016\Пример курсовой\04.11\obj\Debug\04.11.exe
+D:\Ната\МАИ\_Пространственное моделирование\_2016-17_Пр_мод\Учебные материалы\Курсовые_2016\Пример курсовой\04.11\obj\Debug\04.11.pdb
+D:\Ната\МАИ\_Пространственное моделирование\_2016-17_Пр_мод\Учебные материалы\Курсовые_2016\Пример курсовой\04.11\bin\Debug\04.11.exe
+D:\Ната\МАИ\_Пространственное моделирование\_2016-17_Пр_мод\Учебные материалы\Курсовые_2016\Пример курсовой\04.11\bin\Debug\04.11.pdb
+D:\Ната\МАИ\_Пространственное моделирование\_2016-17_Пр_мод\Учебные материалы\Курсовые_2016\Пример курсовой\04.11\obj\Debug\04.11.csprojResolveAssemblyReference.cache
+D:\Ната\МАИ\_Пространственное моделирование\_2016-17_Пр_мод\Учебные материалы\Курсовые_2016\Пример курсовой\04.11\obj\Debug\_04._11.Form1.resources
+D:\Ната\МАИ\_Пространственное моделирование\_2016-17_Пр_мод\Учебные материалы\Курсовые_2016\Пример курсовой\04.11\obj\Debug\_04._11.Properties.Resources.resources
+D:\Ната\МАИ\_Пространственное моделирование\_2016-17_Пр_мод\Учебные материалы\Курсовые_2016\Пример курсовой\04.11\obj\Debug\04.11.csproj.GenerateResource.Cache
+G:\_2016-17 УЧЕБНЫЙ ГОД\Пространственное моделирование\Курсовые_2016\Исходные материалы\Пример курсовой\04.11\bin\Debug\04.11.exe.config
+G:\_2016-17 УЧЕБНЫЙ ГОД\Пространственное моделирование\Курсовые_2016\Исходные материалы\Пример курсовой\04.11\obj\Debug\04.11.exe
+G:\_2016-17 УЧЕБНЫЙ ГОД\Пространственное моделирование\Курсовые_2016\Исходные материалы\Пример курсовой\04.11\obj\Debug\04.11.pdb
+D:\_2016-17 УЧЕБНЫЙ ГОД\Пространственное моделирование\Курсовые_2016\Исходные материалы\Пример курсовой\04.11\bin\Debug\04.11.exe.config
+D:\_2016-17 УЧЕБНЫЙ ГОД\Пространственное моделирование\Курсовые_2016\Исходные материалы\Пример курсовой\04.11\obj\Debug\04.11.exe
+D:\_2016-17 УЧЕБНЫЙ ГОД\Пространственное моделирование\Курсовые_2016\Исходные материалы\Пример курсовой\04.11\obj\Debug\04.11.pdb
+F:\_2016-17 УЧЕБНЫЙ ГОД\Пространственное моделирование\Курсовые_2016\Исходные материалы\Пример курсовой\04.11\bin\Debug\04.11.exe.config
+F:\_2016-17 УЧЕБНЫЙ ГОД\Пространственное моделирование\Курсовые_2016\Исходные материалы\Пример курсовой\04.11\obj\Debug\04.11.exe
+F:\_2016-17 УЧЕБНЫЙ ГОД\Пространственное моделирование\Курсовые_2016\Исходные материалы\Пример курсовой\04.11\obj\Debug\04.11.pdb
+F:\_2016-17 УЧЕБНЫЙ ГОД\Пространственное моделирование\Курсовые_2016\Исходные материалы\Пример курсовой\04.11\bin\Debug\04.11.exe
+F:\_2016-17 УЧЕБНЫЙ ГОД\Пространственное моделирование\Курсовые_2016\Исходные материалы\Пример курсовой\04.11\bin\Debug\04.11.pdb
+F:\_2016-17 УЧЕБНЫЙ ГОД\Пространственное моделирование\Курсовые_2016\Исходные материалы\Пример курсовой\04.11\obj\Debug\04.11.csprojResolveAssemblyReference.cache
+F:\_2016-17 УЧЕБНЫЙ ГОД\Пространственное моделирование\Курсовые_2016\Исходные материалы\Пример курсовой\04.11\obj\Debug\_04._11.Form1.resources
+F:\_2016-17 УЧЕБНЫЙ ГОД\Пространственное моделирование\Курсовые_2016\Исходные материалы\Пример курсовой\04.11\obj\Debug\_04._11.Properties.Resources.resources
+F:\_2016-17 УЧЕБНЫЙ ГОД\Пространственное моделирование\Курсовые_2016\Исходные материалы\Пример курсовой\04.11\obj\Debug\04.11.csproj.GenerateResource.Cache
+C:\Users\Антон\Desktop\C#\WinRAR archive\Пример курсовой\04.11\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Антон\Desktop\C#\WinRAR archive\Пример курсовой\04.11\bin\Debug\OpenTK.dll
+C:\Users\Антон\Desktop\C#\WinRAR archive\Пример курсовой\04.11\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Антон\Desktop\C#\WinRAR archive\Пример курсовой\04.11\bin\Debug\OpenTK.pdb
+C:\Users\Антон\Desktop\C#\WinRAR archive\Пример курсовой\04.11\bin\Debug\OpenTK.xml
+C:\Users\Антон\Desktop\C#\WinRAR archive\Пример курсовой\04.11\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Антон\Desktop\C#\WinRAR archive\Пример курсовой\04.11\obj\Debug\04.11.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\C#\WinRAR archive\Пример курсовой\04.11\obj\Debug\_04._11.Form1.resources
+C:\Users\Антон\Desktop\C#\WinRAR archive\Пример курсовой\04.11\obj\Debug\04.11.csproj.GenerateResource.Cache
+C:\Users\Антон\Desktop\C#\WinRAR archive\Пример курсовой\04.11\bin\Debug\Курсач ТПМ.exe.config
+C:\Users\Антон\Desktop\C#\WinRAR archive\Пример курсовой\04.11\bin\Debug\Курсач ТПМ.exe
+C:\Users\Антон\Desktop\C#\WinRAR archive\Пример курсовой\04.11\bin\Debug\Курсач ТПМ.pdb
+C:\Users\Антон\Desktop\C#\WinRAR archive\Пример курсовой\04.11\obj\Debug\kursovaya.Properties.Resources.resources
+C:\Users\Антон\Desktop\C#\WinRAR archive\Пример курсовой\04.11\obj\Debug\Курсач ТПМ.exe
+C:\Users\Антон\Desktop\C#\WinRAR archive\Пример курсовой\04.11\obj\Debug\Курсач ТПМ.pdb
